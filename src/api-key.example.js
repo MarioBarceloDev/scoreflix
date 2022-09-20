@@ -1,2 +1,2 @@
 // Create a api-key.js file with you API KEY
-const API_KEY = "";
+// export const API_KEY = "";
